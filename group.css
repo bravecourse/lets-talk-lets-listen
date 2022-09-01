@@ -1,0 +1,36 @@
+p{
+   color:papayawhip;}
+
+body{background-color:black ;margin:40px;
+  
+}
+h1{font-family:!important;
+   color:deeppink;font-size: 70px;
+   text-align: center;margin: 60px 90px;}
+#logo{width: 80px;border-color: deeppink;border-style: double;}
+p{font-size: 20px;}
+/*ul{color: papayawhip;font-size: 25px;font-family: monospace;border-width: 5px;border-style: dotted;border-color: deeppink;}*/
+img{width: 700px;border-style: dotted;border-color:indigo;animation-fill-mode: !important;}
+h3{color:black;font-size: 35px;padding-right:100px;margin: 60px 90px;}
+.agenda{color: papayawhip;
+   font-size: 25px;font-family: monospace;border-width: 5px;border-style: dotted;border-color: deeppink;padding: 30px;
+}
+.gloves{
+   background-image: url("heart2heart.png");
+   background-size:contain;
+   height:400px ;
+}
+
+.image{
+ justify-content: center;display: flex; }
+h4{font-family:!important;font-size:45px ;font-feature-settings:;color: red;}
+img{width: 700px;border-width: thick;border-bottom-style: dashed;border-color: deeppink;}
+button{font-size:35px ;background-color:red;border-radius:65px ;}
+
+
+#heal{background-image: url("heal.png");
+   background-size:contain;
+   height:400px ;
+}
+
+
